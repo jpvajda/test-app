@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## About the game
+
+This game was made using this excellent [tutorial](https://reactjs.org/tutorial/tutorial.html). 
+
+## Game Features
+
+* Lets you play tic-tac-toe,
+* Indicates when a player has won the game,
+* Stores a game’s history as a game progresses,
+* Allows players to review a game’s history and see previous  
+* versions of a game’s board.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
